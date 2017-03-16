@@ -1,0 +1,147 @@
+
+  <NoSqlDatabase>
+    <key>
+      elem#1
+    </key>
+    <element>
+      <item-name>
+        beef
+      </item-name>
+      <category-name>
+        Meat
+      </category-name>
+      <description>
+        Meat from cattle
+      </description>
+      <time-date>
+        22:33:36 2017/02/04
+      </time-date>
+      <children>
+        <child>
+          elem#2
+        </child>
+        <child>
+          elem#3
+        </child>
+      </children>
+      <value>
+        10lb
+      </value>
+    </element>
+    <key>
+      elem#2
+    </key>
+    <element>
+      <item-name>
+        Steak
+      </item-name>
+      <category-name>
+        Meat
+      </category-name>
+      <description>
+        Subcategory of beef
+      </description>
+      <time-date>
+        22:33:41 2017/02/04
+      </time-date>
+      <children>
+        <child>
+          elem#3
+        </child>
+      </children>
+      <value>
+        5lb
+      </value>
+    </element>
+    <key>
+      elem#3
+    </key>
+    <element>
+      <item-name>
+        Ribeye Steak
+      </item-name>
+      <category-name>
+        Meat
+      </category-name>
+      <description>
+        Subcategory of steak
+      </description>
+      <time-date>
+        22:33:46 2017/02/04
+      </time-date>
+      <children>
+      </children>
+      <value>
+        5lb
+      </value>
+    </element>
+    <key>
+      elem#4
+    </key>
+    <element>
+      <item-name>
+        Orange
+      </item-name>
+      <category-name>
+        Fruit
+      </category-name>
+      <description>
+        Fruit of cirtus species
+      </description>
+      <time-date>
+        22:33:51 2017/02/04
+      </time-date>
+      <children>
+        <child>
+          elem#5
+        </child>
+      </children>
+      <value>
+        10 Quantity
+      </value>
+    </element>
+    <key>
+      elem#5
+    </key>
+    <element>
+      <item-name>
+        California Orange
+      </item-name>
+      <category-name>
+        Fruit
+      </category-name>
+      <description>
+        One kind of orange
+      </description>
+      <time-date>
+        22:33:56 2017/02/04
+      </time-date>
+      <children>
+      </children>
+      <value>
+        10 Quantity
+      </value>
+    </element>
+    <key>
+      elem6
+    </key>
+    <element>
+      <item-name>
+        Orange Juice
+      </item-name>
+      <category-name>
+        Drink
+      </category-name>
+      <description>
+        Liquid extract of orange
+      </description>
+      <time-date>
+        22:34:01 2017/02/04
+      </time-date>
+      <children>
+      </children>
+      <value>
+        500ML
+      </value>
+    </element>
+  </NoSqlDatabase>

@@ -1,0 +1,23 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Mon Feb  6 22:09:20 2017
+     Path: "Y:\Documents\Visual Studio 2015\Projects\NoSqlDatabase\DBEntry"
+     Args: DBEntry.vcxproj, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     1 files
